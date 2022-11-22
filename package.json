@@ -1,0 +1,6 @@
+{
+  "name": "es6commonjs",
+  "dependencies": {
+    "p-map": "^5.5.0"
+  }
+}
